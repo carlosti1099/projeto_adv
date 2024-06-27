@@ -51,7 +51,7 @@
           <h2>Simone<br>Melgar<br>Advogada</h2>
           <h4>Advocacia Especializada</h4>
           <p>Empresa voltada para o desenvolvimento web e marketing digital</p>
-          <a href="">Fale agora pelo WhastsApp</a>
+          <a href="https://wa.me/556793100672">Fale agora pelo WhastsApp</a>
         </div><!--col-md-12-->
       </div><!--row-->
     </div>
